@@ -3,10 +3,10 @@ layout: tutorial
 title: "Tutorials"
 ---
 
-A series of complete step-by-step tutorials to walk you through how to accomplish different tasks in Kotlin, from Getting Started to writing Android applications and more.
-If you have a tutorial you'd like featured here, please let us know. We'll be happy to host it and give credit!
+Një seri mësimesh hap pas hapi për të ecur përmes mënyrës së kryerjes së detyrave të ndryshme në Kotlin, nga Getting Started për të shkruar aplikacione Android dhe më shumë.
+Nëse keni një tutorial që dëshironi të paraqisni këtu, ju lutem na tregoni. Do të jemi të lumtur ta presim dhe të japim kredi!
 
-* If you like a “hands-on” learning, try [Kotlin Koans online](http://try.kotlinlang.org/koans) to get familiar with Kotlin;
-* If you are using the command line compiler, start with [Working with the Command Line Compiler](command-line.html) and then work your way through the [Kotlin Koans](koans.html);
-* If you are using IntelliJ IDEA, start with [Getting Started](getting-started.html) and then work your way through the [Kotlin Koans](koans.html).
+* Nëse ju pëlqen të mësoni "duart", provoni [Kotlin Koans online] (http://try.kotlinlang.org/koans) për t'u njohur me Kotlin;
+* Nëse jeni duke përdorur përpiluesit e linjës së komandës, filloni me [Puna me komandën e komandës së komandës] (command-line.html) dhe pastaj punoni në rrugën [Kotlin Koans] (koans.html);
+* Nëse po përdorni IntelliJ IDEA, fillo me [Getting Started] (getting-started.html) dhe pastaj punoni në rrugën tuaj nëpërmjet [Kotlin Koans] (koans.html).
 
